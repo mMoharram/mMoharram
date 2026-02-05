@@ -2,12 +2,13 @@
 <html>
  <head>
  </head>
-  <body>
+<body>
 
-	<div align="center">
-		<h2 align="centre">About Me</h2>
-	</div>
-  </body>
+<div align="center">
+<h2 align="centre">About Me</h2>
+</div>
+
+</body>
 
 <footer>
 	  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
