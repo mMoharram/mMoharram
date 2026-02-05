@@ -60,6 +60,34 @@ I thrive in environments where I can solve complex problems, collaborate with cr
 </div>
 <!-- End Visitor Count -->
 
+    
+<!-- START My Github Profile Trophy SECTION -->
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
+<h2 align="center">My Github Profile Trophy</h2>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=shakiliitju&theme=gotham&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+<!-- END My Github Profile Trophy SECTION -->
+
+
+
+
+<!-- START Github Stats -->
+<p align="center">
+ <h2 align="center">My Github Stats</h2>
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shakiliitju&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
+</div>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats-steel-theta-71.vercel.app/api?username=shakiliitju&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=issues,contribs,stars&bg_color=00000000&show=prs_merged,prs_merged_percentage">
+  <img height="50%" width="auto" src ="https://github-readme-stats-steel-theta-71.vercel.app/api/top-langs/?username=shakiliitju&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+<!-- End Github Stats -->
+
 </body>
 
 <footer>
