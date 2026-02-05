@@ -38,11 +38,11 @@ I’m a passionate software developer with experience building scalable, user-fo
 
 I thrive in environments where I can solve complex problems, collaborate with cross-functional teams, and continuously learn new technologies. Whether it’s optimizing database performance, crafting responsive UIs, or deploying cloud-native solutions, I focus on writing clean, efficient, and maintainable code that drives real impact.
 
-✨ What motivates me:
- • Turning ideas into working solutions
- • Building applications that make people’s lives easier
- • Exploring new tools, frameworks, and best practices
- • Working with teams that value innovation and growth
+✨ What motivates me: <br/>
+ • Turning ideas into working solutions <br/>
+ • Building applications that make people’s lives easier <br/>
+ • Exploring new tools, frameworks, and best practices <br/>
+ • Working with teams that value innovation and growth <br/>
 
 📌 Open to opportunities where I can contribute to meaningful projects, expand my skill set, and grow as a developer while helping businesses scale.
 </p>
