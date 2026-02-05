@@ -53,6 +53,13 @@ I thrive in environments where I can solve complex problems, collaborate with cr
 <h2 align="centre"></h2>
 </div>
 
+<!-- START Visitor Count -->
+<div align="center">
+<h2 align="centre">Visitors Count</h2>  
+	<p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=shakiliitju.shakiliitju" />
+</div>
+<!-- End Visitor Count -->
+
 </body>
 
 <footer>
