@@ -13,7 +13,7 @@
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/marker.png" width="40" alt="Location Icon"/><br/>
       <strong>Location</strong><br/>
-      Jeddah, Makkah, Saudi Arabia
+      Jeddah, Makkah, <br/> Saudi Arabia
     </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="40" alt="Education Icon"/><br/>
