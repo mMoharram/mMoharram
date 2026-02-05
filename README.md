@@ -3,7 +3,7 @@
  <head>
  </head>
 <body>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" style="transform: rotate(180deg);"/>
 <div align="center">
 <h2 align="centre">About Me</h2>
 </div>
@@ -406,7 +406,7 @@ I thrive in environments where I can solve complex problems, collaborate with cr
 </body>
 
 <footer>
-	  <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/> -->
+	  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 </footer>
 </html>
