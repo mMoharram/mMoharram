@@ -3,8 +3,7 @@
  <head>
  </head>
   <body>
-<img width=100% src="welcome.svg" color="00bfbf">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+
 
   </body>
 
