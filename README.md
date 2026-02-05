@@ -196,7 +196,7 @@ I thrive in environments where I can solve complex problems, collaborate with cr
 </p>
  <br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+<div align="center"><h2 align="centre"></h2></div>
 
 <!-- End My favorite tools -->
 
