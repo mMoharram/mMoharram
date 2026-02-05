@@ -184,7 +184,7 @@ I thrive in environments where I can solve complex problems, collaborate with cr
 <tr>
      <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="48" height="48" alt="Nuxtjs" />
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="48" height="48" alt="Nuxtjs" />
       </a>
       <br>Flutter
     </td>
