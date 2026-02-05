@@ -8,7 +8,7 @@
 	<div align="center">
 		[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Assalamu+Alaikum.+My+name+is+Md.+Shakil+Hossain.&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg)
 	</div>
-
+	<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
   </body>
 
 <footer>
