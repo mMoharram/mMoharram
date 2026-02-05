@@ -50,6 +50,9 @@ I thrive in environments where I can solve complex problems, collaborate with cr
    <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 <!--    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000"> -->
 </section>
+<div align="center">
+<h2 align="centre"></h2>
+</div>
 
 </body>
 
