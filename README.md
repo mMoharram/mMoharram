@@ -23,7 +23,7 @@
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/code.png" width="40" alt="Profession Icon"/><br/>
       <strong>Profession</strong><br/>
-      Senior Software Engineer | Full-Stack Developer <br/> Mobile Application Developer
+      Senior Software Engineer <br/> Full-Stack Developer | Mobile Application Developer
     </td>
   </tr>
 </table>
