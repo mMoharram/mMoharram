@@ -8,6 +8,26 @@
 <h2 align="centre">About Me</h2>
 </div>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/marker.png" width="40" alt="Location Icon"/><br/>
+      <strong>Location</strong><br/>
+      Qassim University<br/>Buraydah 52571, Saudi Arabia
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="40" alt="Education Icon"/><br/>
+      <strong>Education</strong><br/>
+      BSc (Hons) & MSc (ICT)<br/>Institute of Information Technology<br/>Jahangirnagar University
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/code.png" width="40" alt="Profession Icon"/><br/>
+      <strong>Profession</strong><br/>
+      Student MSc (IT)<br/>College of Computer<br/>Qassim University
+    </td>
+  </tr>
+</table>
+
 </body>
 
 <footer>
