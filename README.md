@@ -23,7 +23,7 @@
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/code.png" width="40" alt="Profession Icon"/><br/>
       <strong>Profession</strong><br/>
-      Student MSc (IT)<br/>College of Computer<br/>Qassim University
+      Senior Software Engineer | Full-Stack Developer | LLM Engineer | Mobile Application Developer ( Flutter & Java & Kotlin ) | API Integration Specialist | Data Analysis | System Analyst
     </td>
   </tr>
 </table>
