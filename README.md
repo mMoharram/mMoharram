@@ -3,7 +3,9 @@
  <head>
  </head>
 <body>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" style="transform: rotate(180deg);"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" style="transform: rotate(180deg);"/> -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 <div align="center">
 <h2 align="centre">About Me</h2>
 </div>
