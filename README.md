@@ -31,17 +31,20 @@
 
 <section>
 <p align="justify">
-Md. Shakil Hossain received his Bachelor's and Master’s degrees in Information and Communication Technology, from the <a href="https://web.iitju.edu.bd/" target="_blank">Institute of Information Technology</a>, <a href="https://www.juniv.edu/" target="_blank">Jahangirnagar University</a>, Savar, Dhaka, Bangladesh, in 2022 and 2024.
+💻 Software Engineer | Full-Stack Developer | Mobile Application Developer ( Flutter & Java & Kotlin ) | API Integration Specialist | Data Analysis | System Analyst | Problem Solver | Continuous Learner
 
-His father is a farmer, and his mother is a housewife. He is the youngest among three children in the family. Buying books is his hobby. Established a family library called "<a href="https://sites.google.com/view/shakiliitju/my-library" target="_blank">In Search of Truth</a>" with the collected books. Now his library number of books is 160+. He loves to read and teach others.
 
-His excelled in various courses, such as Advance Machine Learning, Applied Cyber Security, Artificial Intelligence, Claude Computing, Big Data Analytics, Internet of Things, Software Engineering, Computer Networks, Advanced Wireless and Cellular Communications, Telecommunication Systems, and Internet Technology, consistently delivering remarkable performances and displaying a deep passion for research. 
+I’m a passionate software developer with experience building scalable, user-focused applications across the full stack — from intuitive front-end interfaces to robust back-end systems. Skilled in JavaScript, Python, Node.js, MySQL, and modern frameworks, I enjoy bridging the gap between design and functionality to deliver seamless digital experiences.
 
-His Masters' final project on "<a href="https://github.com/shakiliitju/Credit-Card-Fraud-Detection-System" target="_blank">Machine Learning Approach on Credit Card Fraud Detection System: A Progressive Web Application</a>". The system provides a web-based dashboard for real-time fraud detection, data visualization, and model performance analysis. His Bachelors' final research thesis on "<a href="https://shakiliitju.github.io/Identifying-Suicidal-Tendency/" target="_blank">Identifying Suicidal Tendency among Young Students of Bangladesh Using Machine Learning</a>" showcasing an impressive 85% accuracy rate in identifying such activities, highlighting his ability to yield impactful outcomes.
+I thrive in environments where I can solve complex problems, collaborate with cross-functional teams, and continuously learn new technologies. Whether it’s optimizing database performance, crafting responsive UIs, or deploying cloud-native solutions, I focus on writing clean, efficient, and maintainable code that drives real impact.
 
-Engaging actively in IEEE student branch and Science Club, His held leadership roles, mentoring junior students and demonstrating exceptional teamwork during seminars and workshops. He is a diligent student who has consistently displayed a deep understanding of Islamic sciences, especially in the areas of Qur’an, Hadith, Fiqh. He approaches learning with humility, discipline, and a sincere desire to grow closer to Allah through knowledge.
+✨ What motivates me:
+ • Turning ideas into working solutions
+ • Building applications that make people’s lives easier
+ • Exploring new tools, frameworks, and best practices
+ • Working with teams that value innovation and growth
 
-He is respectful to his elders and teachers, kind to his peers, and active in community services such as, organizing Islamic events, "Islamic Grand Conference 2024", volunteering "Quran Translation Recitation Competition-2024 Award Ceremony", "Distribution of Eid Gifts to the Underprivileged - 2024", and "Tree Plantation Program-2023". His behavior reflects the teachings of our beloved Prophet Muhammad (peace be upon him), and he is a positive role model for youth in our community.
+📌 Open to opportunities where I can contribute to meaningful projects, expand my skill set, and grow as a developer while helping businesses scale.
 </p>
 
    <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
