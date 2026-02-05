@@ -19,6 +19,7 @@
       <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="40" alt="Education Icon"/><br/>
       <strong>Education</strong><br/>
       Lebanese International University (LIU)
+	   <br/> BACHELOR OF CSIT - INFORMATION TECHNOLOGY.
     </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/000000/code.png" width="40" alt="Profession Icon"/><br/>
